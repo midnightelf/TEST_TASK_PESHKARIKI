@@ -1,0 +1,24 @@
+:root {
+    --gray-2: #262626;
+    --gray-6: #C4C4C4;
+    --gray-9: #9E9E9E;
+    --gray-4: #707070;
+    
+    --overlay-gray: #9E9E9E40;
+
+    --blue-1: #2667B8;
+
+    --red-2: #9e2727;
+
+    --core-green: #09A854;
+    --core-red: #D93535;
+    --core-white: #FFFFFF;
+    --core-blue: #307FE2;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+input, textarea { outline: none }
